@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: a064bc9d7cf6fd44f941061f2fe3598c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosao1: {fileID: 1400546303438930, guid: a82bc9354b4574e478225f8e7b9206b9,
+      type: 3}
+  - explosao2: {fileID: 1414679066466860, guid: 9f7a8dce9859386498358260c0e79925,
+      type: 3}
+  - explosao3: {fileID: 1999212014006104, guid: 0a03b91b70f0bcb46ac66e5ab1879a92,
+      type: 3}
+  - explosao4: {fileID: 1566589300783020, guid: e79e4691cd1fd5d4da013fb26dacffd6,
+      type: 3}
+  - explosao5: {fileID: 1101426919156506, guid: 405b36702fb764f47b8e7b3203dee736,
+      type: 3}
+  - explosao6: {fileID: 1212141105334180, guid: fe6c841798f976d4aa24430b15545546,
+      type: 3}
+  - explosao7: {fileID: 1428939694341686, guid: 9770ad1129bc71548a224d296b2a9c81,
+      type: 3}
+  - explosao8: {fileID: 1083169010068402, guid: 60a8af22cfe2c044690f6b4ba985e44d,
+      type: 3}
+  - explosao9: {fileID: 1696895051677614, guid: c48bda9ce58bc54429cf9dfa7d274965,
+      type: 3}
+  - spawn: {instanceID: 0}
+  - perdeuAudio: {instanceID: 0}
+  - frenesi: {instanceID: 0}
+  - tempoRestante: {instanceID: 0}
+  - objetoJogador: {instanceID: 0}
+  - botaoPause: {instanceID: 0}
+  - musica: {fileID: 670874982862969214, guid: 5554a569296153f4dae94591eea00196, type: 3}
+  - derrota: {instanceID: 0}
+  - acertos: {instanceID: 0}
+  - quest: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
